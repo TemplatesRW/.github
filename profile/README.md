@@ -39,7 +39,13 @@ npm install -g templatesrw
 Transform your RedwoodJS applications effortlessly. Here’s how:
 
 Setting Up
-Navigate to your Redwood project directory and run:
+Navigate to your Redwood project directory 
+
+```bash
+cd my-redwood-project
+```
+
+and run:
 
 ```bash
 templatesrw setup
